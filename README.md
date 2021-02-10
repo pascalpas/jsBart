@@ -1,2 +1,2 @@
 # jsBart
-JavaScript BART task
+A JavaScript BART (balloon analogue risk task) to measure risk taking
